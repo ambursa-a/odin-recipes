@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Apple Pie</title>
+  <desc id="desc">A stylized illustration of a slice of apple pie.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe0b5"/>
+      <stop offset="100%" stop-color="#c97a44"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <path d="M420 490 L700 220 L900 520 Z" fill="#8d4f24"/>
+  <path d="M470 470 L690 260 L840 490 Z" fill="#f6d39b"/>
+  <path d="M520 450 L680 300 L790 470 Z" fill="#d78b3d"/>
+  <circle cx="610" cy="360" r="28" fill="#c4572f"/>
+  <circle cx="700" cy="350" r="28" fill="#c4572f"/>
+  <circle cx="750" cy="410" r="28" fill="#c4572f"/>
+  <text x="640" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" fill="#fff7ed">Apple Pie</text>
+</svg>

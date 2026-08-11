@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Chicken Parmesan</title>
+  <desc id="desc">A stylized illustration of chicken parmesan with sauce and cheese.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe6b8"/>
+      <stop offset="100%" stop-color="#d97d31"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <ellipse cx="640" cy="470" rx="320" ry="120" fill="#f5f0e8"/>
+  <ellipse cx="640" cy="450" rx="230" ry="78" fill="#e3a94f"/>
+  <ellipse cx="640" cy="430" rx="170" ry="58" fill="#c73e35"/>
+  <path d="M500 390 C560 320, 720 320, 780 390 C760 500, 520 500, 500 390 Z" fill="#9a5a21"/>
+  <path d="M540 380 C580 350, 700 350, 740 380 C720 455, 560 455, 540 380 Z" fill="#f4d88a"/>
+  <text x="640" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#fff7ed">Chicken Parmesan</text>
+</svg>
